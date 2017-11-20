@@ -1,0 +1,75 @@
+M       /Users/tanzuoliang/Documents/projects/tank/src/debug/debug.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/ai/AiController.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/ai/action/Explore.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/ai/action/ExploreWithOutAttack.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/SelfDestructBullet.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/baseBullet.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/bullet.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/bulletFactory.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/fllowTankBullet.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/forwardBullet.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/laserBullet.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/lineMoveBullet.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/parabolaBullet.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/delegate.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/mapItems/mapItem.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room/battleLog.js
+A  +    /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room/room.js
+        > moved from /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room/roomBuilder.js
+A  +    /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room/roomDelegate.js
+        > moved from /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/roomDelegate.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room/roomServer.js
+D       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room.js
+        > moved to /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room/room.js
+D       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/roomDelegate.js
+        > moved to /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room/roomDelegate.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/tanks/AITank.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/tanks/MainBaseTank.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/tanks/PlayerTank.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/tanks/aiFactory.js
+!       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/tanks/createTank.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/tanks/tank.js
+A       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/tanks/tankControler.js
+?       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/tanks/tankFactory.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/UDP.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/connect.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/const.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/core.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/math.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/mvc.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/physical.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/prototypes.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/utils.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/aiWaveManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/bombManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/buffManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/dropManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/followManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/gameTimelineManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/hurtManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/itemEventManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/propSkillManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/skillManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/manager/soundManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/view/effect.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/view/movieclip.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/view/tankMovieClip.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/view/ui.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/include/module_battle.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/tank/common/CommonPopPane_1.js
+M       /Users/tanzuoliang/Documents/projects/tank/res/effect/2026_atklaunch_D.plist
+M       /Users/tanzuoliang/Documents/projects/tank/res/effect/2026_atklaunch_D.png
+M       /Users/tanzuoliang/Documents/projects/tank/res/effect/2026_atklaunch_L.plist
+M       /Users/tanzuoliang/Documents/projects/tank/res/effect/2026_atklaunch_L.png
+M       /Users/tanzuoliang/Documents/projects/tank/res/effect/2026_atklaunch_U.plist
+M       /Users/tanzuoliang/Documents/projects/tank/res/effect/2026_atklaunch_U.png
+M       /Users/tanzuoliang/Documents/projects/tank/res/effect/4_addatkbuff.plist
+M       /Users/tanzuoliang/Documents/projects/tank/res/effect/4_addatkbuff.png
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/4_addatkbuff_glow.plist
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/4_addatkbuff_glow.png
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/guardbaseborn.plist
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/guardbaseborn.png
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/holybaseborn.plist
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/holybaseborn.png

@@ -1,0 +1,3946 @@
+{
+	"0": [
+		"AI server_id : 65_1  create action :  down [turnAround]", 
+		"AI server_id : 65_1  create action :  down [launch]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [launch]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"1": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [launch]", 
+		"AI server_id : 96_1  create action :  right [launch]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"2": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"3": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"4": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"5": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"6": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [launch]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"7": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"8": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"9": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"10": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"11": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"12": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"13": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"14": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"15": [
+		"AI server_id : 77_1  create action :  left [turnAround]", 
+		"AI server_id : 77_1  create action :  down [launch]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"16": [
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"17": [
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"18": [
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"19": [
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"20": [
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"21": [
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [turnAround]", 
+		"AI server_id : 117_1  create action :  down [launch]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"22": [
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"23": [
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"24": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"25": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"26": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"27": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"28": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"29": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"30": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"31": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"32": [
+		"AI server_id : 65_1  create action :  down [turnAround]", 
+		"AI server_id : 65_1  create action :  down [launch]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"33": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"34": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"35": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"36": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"37": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"38": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"39": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"40": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"41": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"42": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"43": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"44": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"45": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"46": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"47": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"48": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"49": [
+		"AI server_id : 77_1  create action :  left [turnAround]", 
+		"AI server_id : 77_1  create action :  up [launch]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"50": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [turnAround]", 
+		"AI server_id : 99_1  create action :  down [launch]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [turnAround]", 
+		"AI server_id : 129_1  create action :  down [launch]"
+	], 
+	"51": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  down [turnAround]", 
+		"AI server_id : 117_1  create action :  down [launch]"
+	], 
+	"52": [
+		"AI server_id : 95_1  create action :  right [launch]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"53": [
+		"AI server_id : 96_1  create action :  down [launch]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"54": [
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"55": [
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"56": [
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"57": [
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"58": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 100_1  create action :  right [launch]"
+	], 
+	"59": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"60": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"61": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  down [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  down [move]"
+	], 
+	"62": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"63": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"64": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"65": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"66": [
+		"AI server_id : 65_1  create action :  down [move]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"67": [
+		"AI server_id : 65_1  create action :  right [turnAround]", 
+		"AI server_id : 65_1  create action :  down [launch]", 
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"68": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"69": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"70": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"71": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"72": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"73": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"74": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"75": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"76": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"77": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"78": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"79": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"80": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  up [move]"
+	], 
+	"81": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [turnAround]", 
+		"AI server_id : 117_1  create action :  right [launch]", 
+		"AI server_id : 129_1  create action :  left [turnAround]", 
+		"AI server_id : 129_1  create action :  up [launch]"
+	], 
+	"82": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"83": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  left [turnAround]", 
+		"AI server_id : 77_1  create action :  up [launch]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"84": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"85": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"86": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"87": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"88": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"89": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]"
+	], 
+	"90": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"91": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"92": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"93": [
+		"AI server_id : 65_1  create action :  right [move]", 
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"94": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"95": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"96": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]"
+	], 
+	"97": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]"
+	], 
+	"98": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"99": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  right [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"100": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]", 
+		"AI server_id : 117_1  create action :  right [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"101": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  down [move]", 
+		"AI server_id : 99_1  create action :  left [launch]", 
+		"AI server_id : 100_1  create action :  down [move]", 
+		"AI server_id : 117_1  create action :  right [move]"
+	], 
+	"102": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"103": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [launch]", 
+		"AI server_id : 96_1  create action :  left [move]"
+	], 
+	"104": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  left [launch]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"105": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"106": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"107": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"108": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"109": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]", 
+		"AI server_id : 129_1  create action :  left [move]"
+	], 
+	"110": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [launch]"
+	], 
+	"111": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 129_1  create action :  left [turnAround]", 
+		"AI server_id : 129_1  create action :  left [launch]"
+	], 
+	"112": [
+		"AI server_id : 77_1  create action :  left [move]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"113": [
+		"AI server_id : 77_1  create action :  left [turnAround]", 
+		"AI server_id : 77_1  create action :  left [launch]", 
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"114": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"115": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"116": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"117": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"118": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"119": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"120": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"121": [
+		"AI server_id : 95_1  create action :  right [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"122": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"123": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"124": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"125": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"126": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"127": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"128": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"129": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"130": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"131": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"132": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"133": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"134": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"135": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"136": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"137": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"138": [
+		"AI server_id : 77_1  create action :  right [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"139": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  up [move]"
+	], 
+	"140": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  left [move]"
+	], 
+	"141": [
+		"AI server_id : 77_1  create action :  down [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  up [move]", 
+		"AI server_id : 129_1  create action :  left [turnAround]", 
+		"AI server_id : 129_1  create action :  left [launch]"
+	], 
+	"142": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"143": [
+		"AI server_id : 77_1  create action :  up [move]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 96_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  right [move]"
+	], 
+	"144": [
+		"AI server_id : 77_1  create action :  left [turnAround]", 
+		"AI server_id : 77_1  create action :  up [launch]", 
+		"AI server_id : 95_1  create action :  left [move]", 
+		"AI server_id : 99_1  create action :  right [move]", 
+		"AI server_id : 100_1  create action :  down [move]"
+	], 
+	"192": [
+		"AI server_id : 26_2  create action :  right [turnAround]", 
+		"AI server_id : 26_2  create action :  down [launch]", 
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 51_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"193": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 51_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"194": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 51_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"195": [
+		"AI server_id : 115_2  create action :  down [turnAround]", 
+		"AI server_id : 115_2  create action :  down [launch]", 
+		"AI server_id : 51_2  create action :  up [move]", 
+		"AI server_id : 82_2  create action :  down [turnAround]", 
+		"AI server_id : 82_2  create action :  down [launch]", 
+		"AI server_id : 84_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"196": [
+		"AI server_id : 51_2  create action :  up [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"197": [
+		"AI server_id : 51_2  create action :  up [move]", 
+		"AI server_id : 84_2  create action :  left [turnAround]", 
+		"AI server_id : 84_2  create action :  left [launch]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"198": [
+		"AI server_id : 51_2  create action :  up [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"199": [
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"200": [
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"201": [
+		"AI server_id : 26_2  create action :  right [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"202": [
+		"AI server_id : 26_2  create action :  right [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"203": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"204": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"205": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"206": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"207": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"208": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"209": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"210": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"211": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"212": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"213": [
+		"AI server_id : 26_2  create action :  right [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"214": [
+		"AI server_id : 90_2  create action :  left [turnAround]", 
+		"AI server_id : 90_2  create action :  down [launch]", 
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"215": [
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"216": [
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"217": [
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"218": [
+		"AI server_id : 40_2  create action :  right [move]", 
+		"AI server_id : 91_2  create action :  right [turnAround]", 
+		"AI server_id : 91_2  create action :  down [launch]"
+	], 
+	"219": [
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"220": [
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"221": [
+		"AI server_id : 26_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"222": [
+		"AI server_id : 26_2  create action :  right [turnAround]", 
+		"AI server_id : 26_2  create action :  right [launch]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"223": [
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"224": [
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"225": [
+		"AI server_id : 115_2  create action :  down [turnAround]", 
+		"AI server_id : 115_2  create action :  down [launch]", 
+		"AI server_id : 82_2  create action :  down [turnAround]", 
+		"AI server_id : 82_2  create action :  down [launch]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"226": [
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"227": [
+		"AI server_id : 84_2  create action :  left [turnAround]", 
+		"AI server_id : 84_2  create action :  left [launch]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  right [move]"
+	], 
+	"228": [
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"229": [
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"230": [
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"231": [
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"232": [
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]", 
+		"AI server_id : 91_2  create action :  down [move]"
+	], 
+	"233": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"234": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"235": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"236": [
+		"AI server_id : 26_2  create action :  down [move]", 
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"237": [
+		"AI server_id : 26_2  create action :  left [move]", 
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"238": [
+		"AI server_id : 26_2  create action :  left [move]", 
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"239": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"240": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"241": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"242": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"243": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"244": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  down [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"245": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"246": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  left [turnAround]", 
+		"AI server_id : 90_2  create action :  left [launch]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"247": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"248": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"249": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"250": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"251": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"252": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"253": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"254": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"255": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 115_2  create action :  down [turnAround]", 
+		"AI server_id : 115_2  create action :  down [launch]", 
+		"AI server_id : 82_2  create action :  down [turnAround]", 
+		"AI server_id : 82_2  create action :  down [launch]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"256": [
+		"AI server_id : 26_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"257": [
+		"AI server_id : 84_2  create action :  left [turnAround]", 
+		"AI server_id : 84_2  create action :  left [launch]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"258": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"259": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"260": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"261": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"262": [
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"263": [
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"264": [
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"265": [
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"266": [
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"267": [
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"268": [
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"269": [
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"270": [
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"271": [
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"272": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"273": [
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"274": [
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"275": [
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"276": [
+		"AI server_id : 90_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"277": [
+		"AI server_id : 90_2  create action :  left [turnAround]", 
+		"AI server_id : 90_2  create action :  up [launch]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"278": [
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"279": [
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"280": [
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"281": [
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"282": [
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"283": [
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"284": [
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"285": [
+		"AI server_id : 115_2  create action :  down [turnAround]", 
+		"AI server_id : 115_2  create action :  down [launch]", 
+		"AI server_id : 82_2  create action :  down [turnAround]", 
+		"AI server_id : 82_2  create action :  down [launch]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"286": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"287": [
+		"AI server_id : 84_2  create action :  left [turnAround]", 
+		"AI server_id : 84_2  create action :  left [launch]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"288": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"289": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"290": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"291": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"292": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"293": [
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"294": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"295": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  right [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"296": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  right [move]", 
+		"AI server_id : 84_2  create action :  left [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"297": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  right [move]", 
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"298": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  right [move]", 
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"299": [
+		"AI server_id : 82_2  create action :  left [move]", 
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 90_2  create action :  left [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"300": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"301": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"302": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"303": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"304": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"305": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"306": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"307": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"308": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"309": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"310": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"311": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"312": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"313": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"314": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"315": [
+		"AI server_id : 115_2  create action :  down [turnAround]", 
+		"AI server_id : 115_2  create action :  down [launch]", 
+		"AI server_id : 82_2  create action :  left [turnAround]", 
+		"AI server_id : 82_2  create action :  left [launch]", 
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"316": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  left [move]"
+	], 
+	"317": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"318": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"319": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"320": [
+		"AI server_id : 84_2  create action :  up [move]", 
+		"AI server_id : 40_2  create action :  right [move]"
+	], 
+	"321": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"322": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"323": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"324": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  down [move]"
+	], 
+	"325": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"326": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"327": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"328": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"329": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"330": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"331": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"332": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"333": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"334": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"335": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"336": [
+		"AI server_id : 84_2  create action :  right [move]", 
+		"AI server_id : 40_2  create action :  up [move]"
+	], 
+	"337": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"338": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"339": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"340": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"341": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"342": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"343": [
+		"AI server_id : 84_2  create action :  down [turnAround]", 
+		"AI server_id : 84_2  create action :  right [launch]"
+	], 
+	"345": [
+		"AI server_id : 115_2  create action :  down [turnAround]", 
+		"AI server_id : 115_2  create action :  down [launch]", 
+		"AI server_id : 82_2  create action :  left [turnAround]", 
+		"AI server_id : 82_2  create action :  left [launch]"
+	], 
+	"352": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"353": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"354": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  left [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"355": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  left [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"356": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  left [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"357": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"358": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"359": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"360": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"361": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"362": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"363": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"364": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"365": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"366": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"367": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"368": [
+		"AI server_id : 115_2  create action :  down [move]"
+	], 
+	"369": [
+		"AI server_id : 115_2  create action :  down [move]"
+	], 
+	"370": [
+		"AI server_id : 115_2  create action :  down [move]"
+	], 
+	"371": [
+		"AI server_id : 115_2  create action :  down [move]"
+	], 
+	"372": [
+		"AI server_id : 115_2  create action :  down [move]"
+	], 
+	"373": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [turnAround]", 
+		"AI server_id : 84_2  create action :  down [launch]"
+	], 
+	"374": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  right [move]"
+	], 
+	"375": [
+		"AI server_id : 115_2  create action :  left [turnAround]", 
+		"AI server_id : 115_2  create action :  down [launch]", 
+		"AI server_id : 82_2  create action :  right [move]"
+	], 
+	"376": [
+		"AI server_id : 82_2  create action :  down [turnAround]", 
+		"AI server_id : 82_2  create action :  right [launch]"
+	], 
+	"382": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"383": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"384": [
+		"AI server_id : 115_2  create action :  left [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"385": [
+		"AI server_id : 115_2  create action :  left [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"386": [
+		"AI server_id : 115_2  create action :  left [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"387": [
+		"AI server_id : 115_2  create action :  left [move]", 
+		"AI server_id : 82_2  create action :  down [move]"
+	], 
+	"388": [
+		"AI server_id : 115_2  create action :  left [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"389": [
+		"AI server_id : 115_2  create action :  left [move]", 
+		"AI server_id : 82_2  create action :  down [move]"
+	], 
+	"390": [
+		"AI server_id : 115_2  create action :  left [move]", 
+		"AI server_id : 82_2  create action :  down [move]"
+	], 
+	"391": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"392": [
+		"AI server_id : 115_2  create action :  down [move]", 
+		"AI server_id : 82_2  create action :  down [move]", 
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"393": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"394": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"395": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"396": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"397": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"398": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"400": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"403": [
+		"AI server_id : 84_2  create action :  down [turnAround]", 
+		"AI server_id : 84_2  create action :  right [launch]"
+	], 
+	"412": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"413": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"416": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"417": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"418": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"419": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"420": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"423": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"426": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"427": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"430": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"432": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"433": [
+		"AI server_id : 84_2  create action :  down [turnAround]", 
+		"AI server_id : 84_2  create action :  down [launch]"
+	], 
+	"442": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"443": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"444": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"445": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"449": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"451": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"453": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"454": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"455": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"456": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"457": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"458": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"459": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"460": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"461": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"463": [
+		"AI server_id : 84_2  create action :  down [turnAround]", 
+		"AI server_id : 84_2  create action :  down [launch]"
+	], 
+	"472": [
+		"AI server_id : 84_2  create action :  left [move]"
+	], 
+	"473": [
+		"AI server_id : 84_2  create action :  left [move]"
+	], 
+	"474": [
+		"AI server_id : 84_2  create action :  left [move]"
+	], 
+	"475": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"478": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"480": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"481": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"482": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"484": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"485": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"486": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"490": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"491": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"492": [
+		"AI server_id : 84_2  create action :  left [move]"
+	], 
+	"493": [
+		"AI server_id : 84_2  create action :  left [move]"
+	], 
+	"494": [
+		"AI server_id : 84_2  create action :  right [move]"
+	], 
+	"495": [
+		"AI server_id : 84_2  create action :  down [turnAround]", 
+		"AI server_id : 84_2  create action :  right [launch]"
+	], 
+	"504": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"505": [
+		"AI server_id : 84_2  create action :  down [move]"
+	], 
+	"545": [
+		"AI server_id : 25_3  create action :  down [move]", 
+		"AI server_id : 106_3  create action :  down [turnAround]", 
+		"AI server_id : 106_3  create action :  down [launch]", 
+		"AI server_id : 11_3  create action :  down [move]", 
+		"AI server_id : 107_3  create action :  down [move]", 
+		"AI server_id : 112_3  create action :  down [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [turnAround]", 
+		"AI server_id : 98_3  create action :  down [launch]", 
+		"AI server_id : 24_3  create action :  right [move]", 
+		"AI server_id : 114_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]", 
+		"AI server_id : 126_3  create action :  down [move]"
+	], 
+	"546": [
+		"AI server_id : 25_3  create action :  right [move]", 
+		"AI server_id : 11_3  create action :  right [move]", 
+		"AI server_id : 107_3  create action :  down [move]", 
+		"AI server_id : 112_3  create action :  down [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  right [move]", 
+		"AI server_id : 114_3  create action :  down [turnAround]", 
+		"AI server_id : 114_3  create action :  down [launch]", 
+		"AI server_id : 121_3  create action :  down [move]", 
+		"AI server_id : 126_3  create action :  down [turnAround]", 
+		"AI server_id : 126_3  create action :  down [launch]"
+	], 
+	"547": [
+		"AI server_id : 25_3  create action :  right [move]", 
+		"AI server_id : 11_3  create action :  right [move]", 
+		"AI server_id : 107_3  create action :  down [move]", 
+		"AI server_id : 112_3  create action :  down [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  right [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"548": [
+		"AI server_id : 25_3  create action :  right [move]", 
+		"AI server_id : 11_3  create action :  right [move]", 
+		"AI server_id : 107_3  create action :  down [turnAround]", 
+		"AI server_id : 107_3  create action :  down [launch]", 
+		"AI server_id : 112_3  create action :  down [turnAround]", 
+		"AI server_id : 112_3  create action :  down [launch]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  right [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"549": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  right [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  right [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"550": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  right [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"551": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"552": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"553": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  down [move]", 
+		"AI server_id : 126_3  create action :  down [move]"
+	], 
+	"554": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  down [move]", 
+		"AI server_id : 126_3  create action :  down [move]"
+	], 
+	"555": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  up [move]", 
+		"AI server_id : 114_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]", 
+		"AI server_id : 126_3  create action :  left [move]"
+	], 
+	"556": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  up [move]", 
+		"AI server_id : 114_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]", 
+		"AI server_id : 126_3  create action :  left [move]"
+	], 
+	"557": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 112_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  down [move]", 
+		"AI server_id : 126_3  create action :  left [move]"
+	], 
+	"558": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 112_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 24_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  down [move]", 
+		"AI server_id : 126_3  create action :  left [move]"
+	], 
+	"559": [
+		"AI server_id : 25_3  create action :  up [move]", 
+		"AI server_id : 11_3  create action :  left [move]", 
+		"AI server_id : 112_3  create action :  left [move]", 
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 24_3  create action :  up [move]", 
+		"AI server_id : 114_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]", 
+		"AI server_id : 126_3  create action :  left [move]"
+	], 
+	"639": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"640": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"641": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"642": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"643": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"644": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"645": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"646": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"647": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"648": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"649": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"650": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"651": [
+		"AI server_id : 97_3  create action :  down [turnAround]", 
+		"AI server_id : 97_3  create action :  right [launch]", 
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"652": [
+		"AI server_id : 98_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"653": [
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"654": [
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"655": [
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"656": [
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"657": [
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"658": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"659": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"660": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"661": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"662": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"663": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"664": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  right [turnAround]", 
+		"AI server_id : 121_3  create action :  down [launch]"
+	], 
+	"665": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"666": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"667": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"668": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"669": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"670": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"671": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"672": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"673": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"674": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"675": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"676": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"677": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"678": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"679": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"680": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"681": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"682": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"683": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"684": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [turnAround]", 
+		"AI server_id : 98_3  create action :  left [launch]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"685": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"686": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"687": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"688": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"689": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"690": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"691": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  down [move]"
+	], 
+	"692": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"693": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"694": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"695": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"696": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"697": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"698": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"699": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"700": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"701": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"702": [
+		"AI server_id : 97_3  create action :  down [turnAround]", 
+		"AI server_id : 97_3  create action :  right [launch]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"703": [
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"704": [
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"705": [
+		"AI server_id : 121_3  create action :  right [turnAround]", 
+		"AI server_id : 121_3  create action :  right [launch]"
+	], 
+	"709": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"710": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"711": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"712": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"713": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  right [move]"
+	], 
+	"714": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"715": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"716": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"717": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"718": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"719": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"720": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"721": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"722": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"723": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"724": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"725": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"726": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"727": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"728": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"729": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"730": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"731": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"732": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"733": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  left [move]"
+	], 
+	"734": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  up [move]"
+	], 
+	"735": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"736": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]", 
+		"AI server_id : 121_3  create action :  up [move]"
+	], 
+	"737": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"738": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  up [move]"
+	], 
+	"739": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  up [move]"
+	], 
+	"740": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"741": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]", 
+		"AI server_id : 121_3  create action :  up [move]"
+	], 
+	"742": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"743": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"744": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"745": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"746": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"747": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"748": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"749": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"750": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"751": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"752": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"753": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"754": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"755": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"756": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"757": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"758": [
+		"AI server_id : 97_3  create action :  down [turnAround]", 
+		"AI server_id : 97_3  create action :  right [launch]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"759": [
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"760": [
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"761": [
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"762": [
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"763": [
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"764": [
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"765": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"766": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"767": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"768": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"769": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"770": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"771": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"772": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"773": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"774": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"775": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"776": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"777": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"778": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"779": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"780": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"781": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"782": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"783": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"784": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"785": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"786": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"787": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"788": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"789": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"790": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"791": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"792": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"793": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"794": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"795": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"796": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"797": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"798": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"799": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"800": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"801": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"802": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"803": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"804": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"805": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"806": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"807": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"808": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"809": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"810": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [turnAround]", 
+		"AI server_id : 98_3  create action :  down [launch]"
+	], 
+	"811": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"812": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"813": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"814": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"815": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"816": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"817": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"818": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"819": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"820": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"821": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"822": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"823": [
+		"AI server_id : 97_3  create action :  left [turnAround]", 
+		"AI server_id : 97_3  create action :  down [launch]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"824": [
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"825": [
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"826": [
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"827": [
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"828": [
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"829": [
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"830": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"831": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"832": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"833": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"834": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"835": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"836": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"837": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"838": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"839": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"840": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"841": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"842": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"843": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"844": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"845": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"846": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"847": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"848": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"849": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"850": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"851": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"852": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"853": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"854": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"855": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"856": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  left [move]"
+	], 
+	"857": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"858": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"859": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"860": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"861": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"862": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"863": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"864": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"865": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"866": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"867": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"868": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"869": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"870": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"871": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"872": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"873": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"874": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"875": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"876": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"877": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"878": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"879": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"880": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"881": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"882": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"883": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"884": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"885": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"886": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"887": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"888": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"889": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"890": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"891": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"892": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"893": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"894": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"895": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"896": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"897": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"898": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"899": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"900": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"901": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"902": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"903": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"904": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"905": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"906": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"907": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"908": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"909": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"910": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"911": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"912": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"913": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"914": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"915": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"916": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"917": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"918": [
+		"AI server_id : 97_3  create action :  up [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"919": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"920": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"921": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"922": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"923": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"924": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"925": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"926": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"927": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"928": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"929": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"930": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"931": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"932": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"933": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"934": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"935": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"936": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"937": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"938": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"939": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"940": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"941": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"942": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"943": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"944": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"945": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"946": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"947": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"948": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"949": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"950": [
+		"AI server_id : 97_3  create action :  left [move]", 
+		"AI server_id : 98_3  create action :  down [move]"
+	], 
+	"951": [
+		"AI server_id : 97_3  create action :  down [turnAround]", 
+		"AI server_id : 97_3  create action :  left [launch]", 
+		"AI server_id : 98_3  create action :  right [turnAround]", 
+		"AI server_id : 98_3  create action :  down [launch]"
+	], 
+	"958": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"959": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"960": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"961": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"962": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"963": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"964": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"965": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"966": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"967": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"968": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"969": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"970": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"971": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"972": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"973": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"974": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"975": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"976": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"977": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"978": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"979": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"980": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"981": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"982": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"983": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"984": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  up [move]"
+	], 
+	"985": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"986": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"987": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"988": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"989": [
+		"AI server_id : 97_3  create action :  right [move]", 
+		"AI server_id : 98_3  create action :  right [move]"
+	], 
+	"990": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"991": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"992": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"993": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"994": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"995": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"996": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"997": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"998": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"999": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1000": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1001": [
+		"AI server_id : 97_3  create action :  down [move]", 
+		"AI server_id : 98_3  create action :  right [turnAround]", 
+		"AI server_id : 98_3  create action :  right [launch]"
+	], 
+	"1002": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1003": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1004": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1005": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1006": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1007": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1008": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1009": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1010": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1011": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1012": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1013": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1014": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1015": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1016": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1017": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1018": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1019": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1020": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1021": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1022": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1023": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1024": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1025": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1026": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1027": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1028": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1029": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1030": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1031": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1032": [
+		"AI server_id : 97_3  create action :  left [turnAround]", 
+		"AI server_id : 97_3  create action :  down [launch]"
+	], 
+	"1039": [
+		"AI server_id : 97_3  create action :  right [move]"
+	], 
+	"1040": [
+		"AI server_id : 97_3  create action :  right [move]"
+	], 
+	"1041": [
+		"AI server_id : 97_3  create action :  right [move]"
+	], 
+	"1042": [
+		"AI server_id : 97_3  create action :  right [move]"
+	], 
+	"1043": [
+		"AI server_id : 97_3  create action :  right [move]"
+	], 
+	"1044": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1045": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1046": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1047": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1048": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1049": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1050": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1051": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1052": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1053": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1054": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1055": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1056": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1057": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1058": [
+		"AI server_id : 97_3  create action :  left [move]"
+	], 
+	"1059": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1082": [
+		"AI server_id : 97_3  create action :  up [turnAround]", 
+		"AI server_id : 97_3  create action :  up [launch]"
+	], 
+	"1117": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1118": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1119": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1120": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1121": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1122": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1123": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1124": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1125": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1126": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1127": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1128": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1129": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1130": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1131": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1132": [
+		"AI server_id : 97_3  create action :  left [turnAround]", 
+		"AI server_id : 97_3  create action :  down [launch]"
+	], 
+	"1139": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1140": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1141": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1142": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1143": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1144": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1145": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1146": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1147": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1148": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1149": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1150": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1151": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1152": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1153": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1154": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1155": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1156": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1158": [
+		"AI server_id : 97_3  create action :  up [move]"
+	], 
+	"1159": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1160": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1161": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1162": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1163": [
+		"AI server_id : 97_3  create action :  down [move]"
+	], 
+	"1164": [
+		"AI server_id : 97_3  create action :  down [move]"
+	]
+}

@@ -1,0 +1,16 @@
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bombManager.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/bullets/bullet.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/room.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/roomDelegate.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/battle/ui.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/const.js
+M       /Users/tanzuoliang/Documents/projects/tank/src/fight/core/gameTimeline.js
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/1005_atkfly.plist
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/1005_atkfly.png
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/1005_atkhit.plist
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/1005_atkhit.png
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/1005_atklaunch.plist
+?       /Users/tanzuoliang/Documents/projects/tank/res/effect/1005_atklaunch.png
+M       /Users/tanzuoliang/Documents/projects/tank/res/effect/1081_atkfly.plist
+M       /Users/tanzuoliang/Documents/projects/tank/res/tank/action/tank_20009.plist
+M       /Users/tanzuoliang/Documents/projects/tank/res/tank/action/tank_20009.png
