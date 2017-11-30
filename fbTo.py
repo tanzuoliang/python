@@ -2,7 +2,7 @@
 
 import os,sys,shutil
 from optparse import OptionParser
-
+from compreDir import show
 
 def _execute_(dir,to):
 	print "start to convert from %s to %s"%(dir,to)
@@ -15,15 +15,21 @@ def _execute_(dir,to):
 			os.remove(targetFile)
 			
 
+def getSome():
+	print __name__
+	pass
+
 if __name__ == "__main__":
-	opt = OptionParser()
-	opt.add_option('-f','--file',dest='file')
-	opt.add_option('-t','--to',dest='to')
-	
-	(options,args) = opt.parse_args()
-	
-	if options.file and options.to:
-		_execute_(options.file, options.to)
-	else:
-		print "parma error"	
+	show()
+	getSome()
+#	opt = OptionParser()
+#	opt.add_option('-f','--file',dest='file')
+#	opt.add_option('-t','--to',dest='to')
+#	
+#	(options,args) = opt.parse_args()
+#	
+#	if options.file and options.to:
+#		_execute_(options.file, options.to)
+#	else:
+#		print "parma error"	
 	

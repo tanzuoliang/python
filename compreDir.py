@@ -1,8 +1,11 @@
 #!/usr/bin/python
 
 import os,sys
+#from fbTo import getSome
 
-
+def show():
+	print __name__
+	pass
 
 
 def compreFile(fileL,fileR,f):
