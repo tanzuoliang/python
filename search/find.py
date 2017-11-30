@@ -15,15 +15,8 @@ if __name__ == "__main__":
 	extlist = None
 	searchDir = option.dir
 	
-	"""
-		 检查输入的文件夹
-	"""
-	if not searchDir:
-		searchDir = raw_input("please input the dir that where you want to search from:\n")
-	
-	while not os.path.exists(searchDir):
-		print "%s not exists"%searchDir
-		searchDir = raw_input("please input the dir that where you want to search from:\n")
+	if not searchDir or not os.path.exists(searchDir):
+		searchDir = os.getcwd()
 	
 	
 	searchContent = option.content
