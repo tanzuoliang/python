@@ -2,6 +2,11 @@
 
 import os
 from optparse import OptionParser
+
+"""
+sudo cp ./find.py /usr/local/bin/gitup.py && sudo chmod 777 /usr/local/bin/gitup.py
+"""
+
 if __name__ == "__main__":
 	parser = OptionParser()
 	parser.add_option("-m", "--message",dest="message")

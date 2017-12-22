@@ -3,6 +3,43 @@
 import os
 from optparse import OptionParser
 
+"""
+sudo cp ./find.py /usr/local/bin/find.py && sudo chmod 777 /usr/local/bin/find.py
+"""
+
+mediaExtlist = [".png",".jpg",".jpeg",".mp3",".mp4",".wav",".avi",".gif",".fnt",".ttf"]
+
+def isMedia(filename):
+	global mediaExtlist
+	ext = os.path.splitext(filename)[1]
+	return ext in mediaExtlist		
+
+"""
+"""
+def searchFile(filename,match):
+	if match in os.path.basename(filename):
+		print "-------find file named %s"%(filename)
+	
+	if isMedia(filename):
+#		print "ingore %s"%filename
+		return
+	
+	try:
+		with open(filename,"r") as f:
+			cnt = 1
+			hasprinthead = False
+			for line in f.readlines():
+				if match in line:
+					if not hasprinthead:
+						print filename
+						hasprinthead = True
+					print "  [line:%d] %s"%(cnt,line)
+				cnt = cnt + 1	
+	except Exception as e:
+		print "[error] filename : %s"%(filename)
+		print e				
+
+
 if __name__ == "__main__":
 	parser = OptionParser()
 	parser.add_option('-d', '--dir',dest='dir',help='要搜索的文件夹')
@@ -29,17 +66,8 @@ if __name__ == "__main__":
 		
 		
 	if not os.path.isdir(searchDir):
-		try:
-			with open(searchDir,"r") as f:
-				if searchContent in f.read():
-					print "find file named %s which contains %s"%(searchDir,searchContent)
-		except Exception as e:
-			print "[error] filename : %s"%(searchDir)
-			print e
-						
+		searchFile(searchDir,searchContent)
 	else:
-						
-	
 		"""
 		"""
 		for (root,child,items) in os.walk(searchDir):
@@ -47,14 +75,5 @@ if __name__ == "__main__":
 				filename = os.path.join(root, basefilename)
 				fileinfolist = os.path.splitext(basefilename)
 				if not extlist or fileinfolist[1] in extlist:
-					if searchContent == fileinfolist[0]:
-						print "find file named %s"%filename
-					else:
-						try:
-							with open(filename,"r") as f:
-								if searchContent in f.read():
-									print "find file named %s which contains %s"%(filename,searchContent)
-						except Exception as e:
-							print "[error] filename : %s"%(filename)
-							print e				
-
+					searchFile(filename,searchContent)
+				
