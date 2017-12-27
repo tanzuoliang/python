@@ -2,7 +2,7 @@
 
 import os,json
 
-publishlist = ["find.py","gitup.py","rmlog.py"]
+publishlist = ["find.py","gitup.py","rmlog.py","svnadd.py","keyshow.py","reSignApk.py"]
 mktimeFile = ".config"
 mktimeDic = None
 
