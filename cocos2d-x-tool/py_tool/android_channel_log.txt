@@ -1,0 +1,80 @@
+-------------------- start iplay ------------------
+iplay{
+	java.srcDir "src/iplay/java"
+	tassets.srcDir "src/iplay/assets"
+	manifest.srcFile "src/iplay/AndroidManifest.xml"
+}
+
+
+iplay{
+	versionCode 1
+	versionName "1.0.1"
+	applicationId "com.tianyi.tank.tv.iplay"
+	manifestPlaceholders = [TD_CHANNEL_VALUE: "iplay",
+					TD_APP_ID_VALUE : "5bkn6oevavfncn6m"]
+}
+-------------------- end iplay ------------------
+-------------------- start sby ------------------
+sby{
+	java.srcDir "src/sby/java"
+	tassets.srcDir "src/sby/assets"
+	manifest.srcFile "src/sby/AndroidManifest.xml"
+}
+
+
+sby{
+	versionCode 1
+	versionName "1.0.1"
+	applicationId "com.tianyi.tank.tv.sby"
+	manifestPlaceholders = [TD_CHANNEL_VALUE: "sby",
+					TD_APP_ID_VALUE : "5bkn6oevavfncn6m"]
+}
+-------------------- end sby ------------------
+-------------------- start yidong ------------------
+yidong{
+	java.srcDir "src/yidong/java"
+	tassets.srcDir "src/yidong/assets"
+	manifest.srcFile "src/yidong/AndroidManifest.xml"
+}
+
+
+yidong{
+	versionCode 1
+	versionName "1.0.1"
+	applicationId "com.tianyi.tank.tv.yidong"
+	manifestPlaceholders = [TD_CHANNEL_VALUE: "yidong",
+					TD_APP_ID_VALUE : "5bkn6oevavfncn6m"]
+}
+-------------------- end yidong ------------------
+-------------------- start ysten ------------------
+ysten{
+	java.srcDir "src/ysten/java"
+	tassets.srcDir "src/ysten/assets"
+	manifest.srcFile "src/ysten/AndroidManifest.xml"
+}
+
+
+ysten{
+	versionCode 1
+	versionName "1.0.1"
+	applicationId "com.tianyi.tank.tv.ysten"
+	manifestPlaceholders = [TD_CHANNEL_VALUE: "ysten",
+					TD_APP_ID_VALUE : "5bkn6oevavfncn6m"]
+}
+-------------------- end ysten ------------------
+-------------------- start mobileTV ------------------
+	mobileTV{
+		java.srcDir "src/mobileTV/java"
+		assets.srcDir "src/mobileTV/assets"
+		manifest.srcFile "src/mobileTV/AndroidManifest.xml"
+	}
+
+
+		mobileTV{
+		versionCode 1
+		versionName "1.0.1"
+		applicationId "com.tianyi.tank.tv.mobileTV"
+		manifestPlaceholders = [TD_CHANNEL_VALUE: "mobileTV",
+						TD_APP_ID_VALUE : "5bkn6oevavfncn6m"]
+	}
+-------------------- end mobileTV ------------------
