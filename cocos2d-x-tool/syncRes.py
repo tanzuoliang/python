@@ -25,6 +25,8 @@ if __name__ == "__main__":
 	
 	fromDir = "."
 	toDir = "/Users/tanzuoliang/Documents/study/python/cocos2d-x-tool"
+	
+	
 	l = ["aapt","helper","py_tool","node","battle_server_mobile","battle_server_tv"]
 	fl = ["create.py","hot_res.py","syncRes.py"]
 	"""
