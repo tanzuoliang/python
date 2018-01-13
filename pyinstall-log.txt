@@ -1,0 +1,53 @@
+Exception:
+Traceback (most recent call last):
+  File "pyinstall.py", line 302, in main
+    for req in parse_requirements(filename, finder=finder):
+  File "pyinstall.py", line 2041, in parse_requirements
+    req = InstallRequirement(line, comes_from)
+  File "pyinstall.py", line 577, in __init__
+    req = pkg_resources.Requirement.parse(req)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py", line 2700, in parse
+    reqs = list(parse_requirements(s))
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py", line 2638, in parse_requirements
+    line, p, specs = scan_list(VERSION,LINE_END,line,p,(1,2),"version spec")
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/pkg_resources.py", line 2606, in scan_list
+    raise ValueError("Expected "+item_name+" in",line,"at",line[p:])
+ValueError: ('Expected version spec in', 'import os,sys', 'at', ' os,sys')
+------------------------------------------------------------
+pyinstall.py run on Tue Nov 29 20:16:51 2016
+Downloading/unpacking android.py
+  Getting page http://pypi.python.org/simple/android.py
+  Could not fetch URL http://pypi.python.org/simple/android.py: HTTP Error 404: Not Found
+  Will skip URL http://pypi.python.org/simple/android.py when looking for download links for android.py
+  Getting page http://pypi.python.org/simple/
+  URLs to search for versions for android.py:
+  Could not find any downloads that satisfy the requirement android.py
+No distributions at all found for android.py
+Exception information:
+Traceback (most recent call last):
+  File "pyinstall.py", line 305, in main
+    requirement_set.install_files(finder)
+  File "pyinstall.py", line 1099, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "pyinstall.py", line 425, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for android.py
+------------------------------------------------------------
+pyinstall.py run on Tue Nov 29 20:25:00 2016
+Downloading/unpacking android.py
+  Getting page http://pypi.python.org/simple/android.py
+  Could not fetch URL http://pypi.python.org/simple/android.py: HTTP Error 404: Not Found
+  Will skip URL http://pypi.python.org/simple/android.py when looking for download links for android.py
+  Getting page http://pypi.python.org/simple/
+  URLs to search for versions for android.py:
+  Could not find any downloads that satisfy the requirement android.py
+No distributions at all found for android.py
+Exception information:
+Traceback (most recent call last):
+  File "pyinstall.py", line 305, in main
+    requirement_set.install_files(finder)
+  File "pyinstall.py", line 1099, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "pyinstall.py", line 425, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for android.py
