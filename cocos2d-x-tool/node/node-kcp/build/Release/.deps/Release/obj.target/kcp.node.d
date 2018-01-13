@@ -1,1 +1,0 @@
-cmd_Release/obj.target/kcp.node := g++ -shared -pthread -rdynamic -m64  -Wl,-soname=kcp.node -o Release/obj.target/kcp.node -Wl,--start-group Release/obj.target/kcp/src/kcp/ikcp.o Release/obj.target/kcp/src/kcpobject.o Release/obj.target/kcp/src/node-kcp.o -Wl,--end-group 
