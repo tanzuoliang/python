@@ -3,18 +3,11 @@
 import re
 
 
-"""
-def refDector():
-	cycleCount = 0
-	swapCount = 0
-	
-	def dec(fun):
-		
-	
-	return dec
-	
-	print "cycleCount = {0} swapCount = {1}".format(cycleCount,swapCount)
-"""	
+def sortDector(fun):
+	def wrap(ls):
+		fun(ls)
+		print ls 
+	return wrap	
 
 """
 交换数组数据
@@ -28,6 +21,7 @@ def swap(ls,f,t):
 """
 冒泡排序
 """
+@sortDector
 def bubble_sort(ls):
 	cycleCount = 0
 	swapCount = 0
@@ -42,8 +36,9 @@ def bubble_sort(ls):
 	print "{2} cycleCount = {0} swapCount = {1}".format(cycleCount,swapCount,"bubble_sort")
 """
 简单选择排序
-"""				
-def select_sortleft(ls,mode=-1):
+"""
+@sortDector				
+def select_sortleft(ls):
 	cycleCount = 0
 	swapCount = 0
 	
@@ -52,15 +47,17 @@ def select_sortleft(ls,mode=-1):
 		temp = ls[i]
 		k = i
 		for j in xrange(i,le):				
-			if (mode == -1 and ls[j] < temp) or (mode == 1 and ls[j] > temp):
+#			if (mode == -1 and ls[j] < temp) or (mode == 1 and ls[j] > temp):
+			if ls[j] < temp:
 				k = j
 				temp = ls[j]	
 			cycleCount = cycleCount + 1	
 		swap(ls, k, i)
 		swapCount = swapCount + 1
 	print "{2} cycleCount = {0} swapCount = {1}".format(cycleCount,swapCount,"select_sortleft")	
-		
-def select_sortRight(ls,mode=-1):
+
+@sortDector		
+def select_sortRight(ls):
 	cycleCount = 0
 	swapCount = 0
 	
@@ -69,7 +66,8 @@ def select_sortRight(ls,mode=-1):
 		temp = ls[0]
 		k = 0
 		for j in xrange(1,le - i):				
-			if (mode == -1 and ls[j] < temp) or (mode == 1 and ls[j] > temp):
+#			if (mode == -1 and ls[j] < temp) or (mode == 1 and ls[j] > temp):
+			if ls[j] > temp:
 				k = j
 				temp = ls[j]	
 			cycleCount = cycleCount + 1
@@ -93,11 +91,12 @@ def moveList(ls,index,num):
 
 """
 插入排序
-"""		
+"""
+@sortDector		
 def insert_sort(ls):
 	cycleCount = 0
 	swapCount = 0
-	
+	print ls
 	le = len(ls)
 	for i in xrange(le - 1):
 		check = ls[i]
@@ -117,35 +116,43 @@ def insert_sort(ls):
 					
 """
 快速排序
-"""	
-def quick_sort(ls,start_index,end_index,tag="root"):
-	
-	left_point = start_index
-	right_point = end_index
-	check_num = ls[start_index]
-	
-#	print("[{0}]-------------------------- left = {1} right = {2} num = {3}".format(tag,left_point, right_point,check_num))
-	while left_point < right_point:
-		while ls[right_point] > check_num:
-			right_point = right_point - 1
-		swap(ls, right_point, left_point)
-#		print "right -----",right_point,left_point
+"""
+@sortDector	
+def quick_sort(ls):
 
-		while ls[left_point] < check_num:
-			left_point = left_point + 1
-		swap(ls, right_point, left_point)
+	retMap = {"cycleCount":0,"swapCount":0}
+	def execute(ls,start_index,end_index,tag,retMap):
+		left_point = start_index
+		right_point = end_index
+		check_num = ls[start_index]
+	
+		while left_point < right_point:
+			while ls[right_point] > check_num:
+				right_point = right_point - 1
+				retMap["cycleCount"] = retMap["cycleCount"] + 1
+			swap(ls, right_point, left_point)
+			retMap["swapCount"] = retMap["swapCount"] + 1
+
+			while ls[left_point] < check_num:
+				left_point = left_point + 1
+				retMap["cycleCount"] = retMap["cycleCount"] + 1
+			swap(ls, right_point, left_point)
+			retMap["swapCount"] = retMap["swapCount"] + 1
 		
-#		print "left -----",left_point,right_point
 		
-	if start_index < left_point:
-		quick_sort(ls, start_index, left_point - 1,"left")
+		if start_index < left_point:
+			execute(ls, start_index, left_point - 1,"left",retMap)
 			
-	if right_point < end_index:
-		quick_sort(ls, right_point + 1, end_index,"right")		
+		if right_point < end_index:
+			execute(ls, right_point + 1, end_index,"right",retMap)
+	execute(ls,0,len(ls) -1,"root",retMap)
+	
+	print "{2} cycleCount = {0} swapCount = {1}".format(retMap["cycleCount"],retMap["swapCount"],"quick_sort")					
 
 """
 两端排弃
-"""			
+"""
+@sortDector			
 def port_sort(ls):
 	
 	le = len(ls)
@@ -188,27 +195,10 @@ def port_sort(ls):
 if __name__ == "__main__":
 	baseList = [34,21,13,67,89,2,5,14,100,11,10000,2001,45,43,23,456,421,3456,7854]
 	print "baselist",baseList
+	insert_sort(baseList[:])
+	port_sort(baseList[:])
+	bubble_sort(baseList[:])
+	select_sortleft(baseList[:])
+	select_sortRight(baseList[:])
+	quick_sort(baseList[:])
 	
-	ls = [34,21,13,67,89,2,5,14,100,11,10000,2001,45,43,23,456,421,3456,7854]
-	insert_sort(ls)
-	print(ls)
-	
-	ls = [34,21,13,67,89,2,5,14,100,11,10000,2001,45,43,23,456,421,3456,7854]
-	port_sort(ls)
-	print(ls)
-	
-	
-	ls = [34,21,13,67,89,2,5,14,100,11,10000,2001,45,43,23,456,421,3456,7854]
-	bubble_sort(ls)
-	print(ls)
-	
-	
-	
-	ls = [34,21,13,67,89,2,5,14,100,11,10000,2001,45,43,23,456,421,3456,7854]
-	select_sortleft(ls)
-	print(ls)
-	
-	
-	ls = [34,21,13,67,89,2,5,14,100,11,10000,2001,45,43,23,456,421,3456,7854]
-	select_sortRight(ls,mode=1)
-	print(ls)
