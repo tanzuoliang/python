@@ -12,6 +12,6 @@ if __name__ == "__main__":
 	parser.add_option("-m", "--message",dest="message")
 	(option,_) = parser.parse_args()
 	message = option.message or "default"
-	cmd = "git add . && git commit -m %s && git push"%message
+	cmd = "git add . && git commit -m %s && git push origin master"%message
 	print cmd
 	os.system(cmd)
