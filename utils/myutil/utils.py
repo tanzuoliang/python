@@ -43,7 +43,7 @@ def copyDir(src,dst,filterList = [],invert = False):
 		for fi in children:
 			if os.path.basename(fi) in ignoreSVNList:
 				continue
-			if len(filterList) > 0 and not invert == os.path.splitext(fi) in filterList:
+			if len(filterList) > 0 and not invert == os.path.splitext(fi)[1] in filterList:
 				continue	
 			dstRoot = replaceStr(root,src,dst)	
 			if not os.path.exists(dstRoot):
