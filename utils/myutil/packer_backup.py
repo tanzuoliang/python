@@ -44,7 +44,7 @@ def packSheet(folder):
 			print fromPath
 			print toPath
 			shutil.copy(fromPath, toPath)	
-	command = "%s --data %s.plist --format cocos2d –max-size 2048 --allow-free-size --algorithm Basic --dither-fs --texture-format png --sheet %s.png %s"%(TexturePackerCommand,outName,outName,tmpFolder)
+	command = "%s --data %s.plist --format cocos2d --texture-format png --sheet %s.png %s"%(TexturePackerCommand,outName,outName,tmpFolder)
 	os.system(command);
 	shutil.rmtree(tmpFolder)
 	print "%s successfully"%outName
@@ -83,8 +83,7 @@ def packPic():
 top = Tkinter.Tk()
 top.maxsize(600,400)
 top.minsize(600,400)
-Tkinter.Button(top, text ="点我", command = packPic).grid(row=1,column=1)
-Tkinter.Button(top, text ="点我1", command = packPic).grid(row=1,column=2)
+Tkinter.Button(top, text ="点我", command = packPic).grid(row=1)
 top.mainloop()
 print("successfully")
 raw_input("any key for exit......\n")
