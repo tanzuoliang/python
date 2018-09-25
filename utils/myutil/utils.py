@@ -466,16 +466,10 @@ def deleteFromSVN(root,ciM = ''):
 		for line in os.popen("svn st").readlines():
 			if line[0:1] == "!":
 				f = line[1:].strip()
-				if os.path.exists(f):
-					os.system("svn del %s"%f)
-				else:
-					print "cannot find the file ",f
+				os.system("svn del %s"%f)
 					
 		os.system("svn ci -m %s"%(ciM))			
 	else:
-		"""
-		svn st  | awk '{if ( $1 == "!") { print $2}}' | xargs svn del
-		"""
 		cmd = "svn st  | awk '{if ( $1 == \"!\") { print $2}}' | xargs svn del"
 		os.system(cmd);
 		os.system("svn ci -m %s"%ciM)
