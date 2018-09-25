@@ -433,6 +433,56 @@ def getparse(itemlist):
 		
 	(options,args) = parser.parse_args();
 	return options	
+	
+import platform	
+def addToSVN(root,ciM = ''):
+	cur = os.getcwd()
+	os.chdir(root)
+	os = platform.system()
+	if os == "Windows":
+		for line in os.popen("svn st").readlines():
+			if line[0:1] == "?":
+				f = line[1:].strip()
+				if os.path.exists(f):
+					os.system("svn add %s"%f)
+				else:
+					print "cannot find the file ",f
+					
+		os.system("svn ci -m %s"%(ciM))			
+	else:
+		cmd = "svn st  | awk '{if ( $1 == \"?\") { print $2}}' | xargs svn add"
+		os.system(cmd);
+		os.system("svn ci -m %s"%ciM)
+		
+		
+	os.chdir(cur)
+	
+	
+def deleteFromSVN(root,ciM = ''):
+	cur = os.getcwd()
+	os.chdir(root)
+	os = platform.system()
+	if os == "Windows":
+		for line in os.popen("svn st").readlines():
+			if line[0:1] == "!":
+				f = line[1:].strip()
+				if os.path.exists(f):
+					os.system("svn del %s"%f)
+				else:
+					print "cannot find the file ",f
+					
+		os.system("svn ci -m %s"%(ciM))			
+	else:
+		"""
+		svn st  | awk '{if ( $1 == "!") { print $2}}' | xargs svn del
+		"""
+		cmd = "svn st  | awk '{if ( $1 == \"!\") { print $2}}' | xargs svn del"
+		os.system(cmd);
+		os.system("svn ci -m %s"%ciM)
+		
+		
+	os.chdir(cur)			
+			
 					
 				
 		
